@@ -14,4 +14,4 @@
 | 数据统计 | 详细 | 一般 |详细|详细|
 
 从个人体验来看，PokerTime的体验最好，德扑圈和Wepoker次之，我们取众家之长；
-
+![Image text](https://github.com/gopoker/texas-core-algorithm/blob/main/img/4.png?raw=true)
